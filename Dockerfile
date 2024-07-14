@@ -1,4 +1,4 @@
-FROM  python:rc-alpine3.10
+FROM  python:3.12.4-alpine
 
 COPY ./ /app
 
